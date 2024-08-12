@@ -1,0 +1,8 @@
+localhost_mode: false
+bind_addr: ":8080"
+log_level: "error"
+
+clients:
+  adress:
+  timeout:
+  retries_count:
